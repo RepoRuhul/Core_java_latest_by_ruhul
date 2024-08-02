@@ -1,4 +1,5 @@
 package lec01_java_basic;
+//
 
 // We can create more than one package inside the src file [src is called source file]
 // We can create more than one class inside a package
@@ -12,10 +13,10 @@ public class HelloWorld {
 	// This is used to execute the code
 	// If this is absent, execution of code is not possible, very common mistake
 	// This is a system generated method, name is 'main'
-	// What is the shortcut of creating a main method? 
+	// What is the shortcut of creating a main method?
 	// Ans: Type 'main' inside the class body and then press Enter button.
 	// All the execution come from main method
-	// How many main method present inside one class? Ans:  'only one' 
+	// How many main method present inside one class? Ans: 'only one'
 	// try to create another main method inside/outside the class]
 	public static void main(String[] args) {
 		// you have to type 'syso' to print something, and then press Enter
@@ -30,7 +31,7 @@ public class HelloWorld {
 		// Mac user: keyboard shortcut: save (command+s), saveAll (command+shift+s)
 
 	}
-	
+
 }
 
 // This part is called Editor
